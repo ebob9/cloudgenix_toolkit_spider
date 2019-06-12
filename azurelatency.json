@@ -1,0 +1,171 @@
+[
+  {
+    "name": "East Asia - Hong Kong, Asia Pacific",
+    "host": "asteastasia.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Southeast Asia - Singapore, Asia Pacific",
+    "host": "astsoutheastasia.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Central US - Iowa, United States",
+    "host": "astcentralus.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "East US - Virginia, United States",
+    "host": "asteastus.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "East US 2 - Virginia, United States",
+    "host": "asteastus2.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "West US - California, United States",
+    "host": "astwestus.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "North Central US - Illinois, United States",
+    "host": "astnorthcentralus.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "South Central US - Texas, United States",
+    "host": "astsouthcentralus.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "North Europe - Ireland, Europe",
+    "host": "astnortheurope.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "West Europe - Netherlands, Europe",
+    "host": "astwesteurope.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Japan West - Osaka, Japan",
+    "host": "astjapanwest.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Japan East - Tokyo, Saitama, Japan",
+    "host": "astjapaneast.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Brazil South - Sao Paulo State, Brazil",
+    "host": "astbrazilsouth.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Australia East - New South Wales, Australia",
+    "host": "astaustraliaeast.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Australia Southeast - Victoria, Australia",
+    "host": "astaustraliasoutheast.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "South India - Chennai, India",
+    "host": "astsouthindia.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Central India - Pune, India",
+    "host": "astcentralindia.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "West India - Mumbai, India",
+    "host": "astwestindia.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Canada Central - Toronto, Canada",
+    "host": "astcanadacentral.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Canada East - Quebec City, Canada",
+    "host": "astcanadaeast.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "UK South - London, United Kingdom",
+    "host": "astuksouth.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "UK West - Cardiff, United Kingdom",
+    "host": "astukwest.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "West Central US - Wyoming, United States",
+    "host": "astwestcentralus.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "West US 2 - Washington, United States",
+    "host": "astwestus2.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Korea Central - Seoul, Korea",
+    "host": "astkoreacentral.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "Korea South - Busan, Korea",
+    "host": "astkoreasouth.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "France Central - Paris, France",
+    "host": "astfrancecentral.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  },
+  {
+    "name": "South Africa North - Johannesburg, South Africa",
+    "host": "astsouthafricanorth.blob.core.windows.net:443",
+    "test": "tcping",
+    "count": 5
+  }
+]
+

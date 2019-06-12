@@ -1,0 +1,5 @@
+cloudgenix>=5.1.1b1,<5.2.1b1
+progressbar2>=3.34.3
+tabulate>=0.8.3
+netmiko
+cryptography==2.4.2
